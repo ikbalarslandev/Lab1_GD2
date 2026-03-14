@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/BP_MazeCell.uasset"
+				"C:/Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/BP_MazeCell.uasset",
+				"C:/Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/BP_Cube.uasset",
+				"C:/Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/RI/WT40X1W15SO72ORMKNB8TR.uasset"
 			]
 		}
 	]
