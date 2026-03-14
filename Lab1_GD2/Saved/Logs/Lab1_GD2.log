@@ -7917,3 +7917,208 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2026.03.14-15.02.27:692][410]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/NewMap' took 0.300
 [2026.03.14-15.02.27:692][410]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.300
 [2026.03.14-15.09.35:287][714]LogDerivedDataCache: C:/Users/BUG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.14-15.12.38:916][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.03.14-15.12.40:632][718]LogSlate: Window 'Save Content' being destroyed
+[2026.03.14-15.12.40:643][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.14-15.12.40:694][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.14-15.12.40:712][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.14-15.12.40:732][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.14-15.12.40:742][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/2/8X/O90G9LTWIDSVFOM07K7OIF
+[2026.03.14-15.12.40:742][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/O90G9LTWIDSVFOM07K7OIF817DFFAB4BCA5444C898EE9E0D7986B1.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/2/8X/O90G9LTWIDSVFOM07K7OIF.uasset'
+[2026.03.14-15.12.40:748][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/4/AW/BMP7WPVINDBGYFGKCOKIC9
+[2026.03.14-15.12.40:748][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/BMP7WPVINDBGYFGKCOKIC96F3B3CEC4C06ABCD877ED793D0515E63.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/4/AW/BMP7WPVINDBGYFGKCOKIC9.uasset'
+[2026.03.14-15.12.40:754][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/2/7G/24YTN86PE2ZP0BP9300XVX
+[2026.03.14-15.12.40:754][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/24YTN86PE2ZP0BP9300XVX9C72B6BE4F09291989A8C78B3D897DE1.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/2/7G/24YTN86PE2ZP0BP9300XVX.uasset'
+[2026.03.14-15.12.40:759][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/C/XS/45QP7YV3I0M5Y7FX0HF2K2
+[2026.03.14-15.12.40:759][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/45QP7YV3I0M5Y7FX0HF2K293D995E3400F445042BAD8AF68035D2D.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/C/XS/45QP7YV3I0M5Y7FX0HF2K2.uasset'
+[2026.03.14-15.12.40:764][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/E/RS/AQLZKQI4UE9RKIOLZW3QLM
+[2026.03.14-15.12.40:765][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/AQLZKQI4UE9RKIOLZW3QLMA3A46E8844F6A31BCC2450B65495AA66.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/E/RS/AQLZKQI4UE9RKIOLZW3QLM.uasset'
+[2026.03.14-15.12.40:770][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/A/S9/IF0UKN78ZUC6QCLMR6UJGE
+[2026.03.14-15.12.40:770][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/IF0UKN78ZUC6QCLMR6UJGE1A627D634638AFEB44F7C28FD804312D.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/A/S9/IF0UKN78ZUC6QCLMR6UJGE.uasset'
+[2026.03.14-15.12.40:775][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/C/CW/3IR3B2WASZZOJ9DDSQU3GP
+[2026.03.14-15.12.40:775][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/3IR3B2WASZZOJ9DDSQU3GP8548BFB54486A2028CF352989B0B93A2.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/C/CW/3IR3B2WASZZOJ9DDSQU3GP.uasset'
+[2026.03.14-15.12.40:781][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/0/B7/DPOOCTK8QEH249YDXPWJ1G
+[2026.03.14-15.12.40:781][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/DPOOCTK8QEH249YDXPWJ1GA1FFEBE14127E080AD6DC5ACFFD29C14.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/0/B7/DPOOCTK8QEH249YDXPWJ1G.uasset'
+[2026.03.14-15.12.40:786][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/8/27/UUCTVSS5HF9S3PDSL33CX5
+[2026.03.14-15.12.40:786][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/UUCTVSS5HF9S3PDSL33CX55AD4D4244A2C61EE883A57A724C7CFD5.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/8/27/UUCTVSS5HF9S3PDSL33CX5.uasset'
+[2026.03.14-15.12.40:792][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/D/26/7J9XV4999KROOFR31T3K9A
+[2026.03.14-15.12.40:792][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/7J9XV4999KROOFR31T3K9A3EFB9D104B0EE511A87EADAC42CD502B.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/D/26/7J9XV4999KROOFR31T3K9A.uasset'
+[2026.03.14-15.12.40:797][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/8/RA/HZPALBIJY1KP0Z5IUP39P9
+[2026.03.14-15.12.40:797][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/HZPALBIJY1KP0Z5IUP39P98538E49042E2262BA69B1CB9DF87F81E.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/8/RA/HZPALBIJY1KP0Z5IUP39P9.uasset'
+[2026.03.14-15.12.40:802][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/3/B9/L4MF2330ZB2LKJ6YBT7G8V
+[2026.03.14-15.12.40:802][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/L4MF2330ZB2LKJ6YBT7G8V787FCD9849FE14A73F7B60BA70C35516.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/3/B9/L4MF2330ZB2LKJ6YBT7G8V.uasset'
+[2026.03.14-15.12.40:808][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/4/14/61MRIFP7JY4E1XDP078CKQ
+[2026.03.14-15.12.40:808][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/61MRIFP7JY4E1XDP078CKQ6336D44C4E1F43DB14810DAA671A74DA.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/4/14/61MRIFP7JY4E1XDP078CKQ.uasset'
+[2026.03.14-15.12.40:813][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/3/DB/8LHFA17NWQEAORYH6WK66J
+[2026.03.14-15.12.40:813][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/8LHFA17NWQEAORYH6WK66J1A52D7894200F420D2AF8EAFB47C3FFA.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/3/DB/8LHFA17NWQEAORYH6WK66J.uasset'
+[2026.03.14-15.12.40:819][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/0/SD/NMMU4SVT4HSZWGXEU1CG10
+[2026.03.14-15.12.40:819][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/NMMU4SVT4HSZWGXEU1CG1060EE593B42E62038BA247CB62C00AEC4.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/0/SD/NMMU4SVT4HSZWGXEU1CG10.uasset'
+[2026.03.14-15.12.40:825][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/5/9Z/BPVUPCYTQSQS0ABNBKU8MG
+[2026.03.14-15.12.40:825][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/BPVUPCYTQSQS0ABNBKU8MGEFD49DB14342D51FCDC8FABA35DB2B63.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/5/9Z/BPVUPCYTQSQS0ABNBKU8MG.uasset'
+[2026.03.14-15.12.40:831][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/E/KO/LF7Y2EC5CDOHFWIXBADEFJ
+[2026.03.14-15.12.40:831][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/LF7Y2EC5CDOHFWIXBADEFJA579933B4548702649CB50B8F19FF169.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/E/KO/LF7Y2EC5CDOHFWIXBADEFJ.uasset'
+[2026.03.14-15.12.40:836][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/2/62/SFH902W13Q55GKQXRZY3TR
+[2026.03.14-15.12.40:836][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/SFH902W13Q55GKQXRZY3TR0DC408A64BEE826DC08261B2C0836CB8.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/2/62/SFH902W13Q55GKQXRZY3TR.uasset'
+[2026.03.14-15.12.40:841][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/0/W8/2BX2BBHQO4JIDXMETH8RO8
+[2026.03.14-15.12.40:841][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/2BX2BBHQO4JIDXMETH8RO8E2111E8447FEB1E3135E17A5A9FDE4C8.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/0/W8/2BX2BBHQO4JIDXMETH8RO8.uasset'
+[2026.03.14-15.12.40:847][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/1/5Y/5KGINESULSQTRM0KRCQDKP
+[2026.03.14-15.12.40:847][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/5KGINESULSQTRM0KRCQDKP2EE0D9514A37383BB7DC9DAE6362D41E.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/1/5Y/5KGINESULSQTRM0KRCQDKP.uasset'
+[2026.03.14-15.12.40:852][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/4/YC/SXAJLIRGMAEJO3QRF8FSSJ
+[2026.03.14-15.12.40:852][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/SXAJLIRGMAEJO3QRF8FSSJD15BA22F47EF854BC3D4419AFB272F43.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/4/YC/SXAJLIRGMAEJO3QRF8FSSJ.uasset'
+[2026.03.14-15.12.40:858][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/8/4O/N2IZL013P2BKOFAX3QWNXG
+[2026.03.14-15.12.40:858][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/N2IZL013P2BKOFAX3QWNXG4921078C468883D64F4D079DD95F9B1C.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/8/4O/N2IZL013P2BKOFAX3QWNXG.uasset'
+[2026.03.14-15.12.40:863][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/8/GI/BQT1EF3QZ7V7HZO9D9WKZW
+[2026.03.14-15.12.40:863][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/BQT1EF3QZ7V7HZO9D9WKZW2439E85947ED35349C225B8727F978DE.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/8/GI/BQT1EF3QZ7V7HZO9D9WKZW.uasset'
+[2026.03.14-15.12.40:869][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/9/VG/E3RNFZ9OODSHYVFYZWTPYA
+[2026.03.14-15.12.40:869][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/E3RNFZ9OODSHYVFYZWTPYA6A32BF8D47C910FFDCA1979469168097.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/9/VG/E3RNFZ9OODSHYVFYZWTPYA.uasset'
+[2026.03.14-15.12.40:876][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/A/9N/UPWZRBRF7Z24COKYNNNIPX
+[2026.03.14-15.12.40:876][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/UPWZRBRF7Z24COKYNNNIPX92C39663467DCD7E268FE6A85B95C0EF.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/A/9N/UPWZRBRF7Z24COKYNNNIPX.uasset'
+[2026.03.14-15.12.40:880][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/6/WQ/Q29G23VN6R13CQP28FZJFF
+[2026.03.14-15.12.40:880][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Q29G23VN6R13CQP28FZJFF7BDCA05246A8395A6B99B495EE050A97.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/6/WQ/Q29G23VN6R13CQP28FZJFF.uasset'
+[2026.03.14-15.12.40:886][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/8/SM/B0JWUV4TCGFHMD30NS56I4
+[2026.03.14-15.12.40:887][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/B0JWUV4TCGFHMD30NS56I456669E8242E3F8305E87E4A7DF4ACF61.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/8/SM/B0JWUV4TCGFHMD30NS56I4.uasset'
+[2026.03.14-15.12.40:892][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/6/N7/Q66E2N3LU8PXCZAG5N1AFZ
+[2026.03.14-15.12.40:892][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Q66E2N3LU8PXCZAG5N1AFZC895E91C4176CBB3A639C5B2EB9A6C55.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/6/N7/Q66E2N3LU8PXCZAG5N1AFZ.uasset'
+[2026.03.14-15.12.40:897][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/4/GS/FEIK0B5ICBZFIGWSX51XH7
+[2026.03.14-15.12.40:898][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/FEIK0B5ICBZFIGWSX51XH7CFA18D274C3F604CBDA464B1DEC0CBC0.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/4/GS/FEIK0B5ICBZFIGWSX51XH7.uasset'
+[2026.03.14-15.12.40:903][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/B/69/XXA9KIA8HOZQ48WX404OSU
+[2026.03.14-15.12.40:903][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/XXA9KIA8HOZQ48WX404OSU1BD7A69F4D1571DA3A00E3BE0F68BB4E.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/B/69/XXA9KIA8HOZQ48WX404OSU.uasset'
+[2026.03.14-15.12.40:908][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/5/U6/O0NF341USEC57826P4P6X3
+[2026.03.14-15.12.40:908][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/O0NF341USEC57826P4P6X3E8B6DB9646710658252F10A67A794581.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/5/U6/O0NF341USEC57826P4P6X3.uasset'
+[2026.03.14-15.12.40:914][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/2/BU/TA6L3BTNXM2N2QC3RJC9JI
+[2026.03.14-15.12.40:914][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/TA6L3BTNXM2N2QC3RJC9JIBE0197944664D325BB29AB8BD14069A8.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/2/BU/TA6L3BTNXM2N2QC3RJC9JI.uasset'
+[2026.03.14-15.12.40:933][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/0/K4/CFSL7GI2ZSTPH7QKLOGH0N
+[2026.03.14-15.12.40:933][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/CFSL7GI2ZSTPH7QKLOGH0NA5C678E449016ACB9F454A883527AE48.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/0/K4/CFSL7GI2ZSTPH7QKLOGH0N.uasset'
+[2026.03.14-15.12.40:938][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/C/1M/MNDE278ETOLZ3FEMKY6RBI
+[2026.03.14-15.12.40:938][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/MNDE278ETOLZ3FEMKY6RBIB053319B4008960B0D10AC865DA07F49.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/C/1M/MNDE278ETOLZ3FEMKY6RBI.uasset'
+[2026.03.14-15.12.40:944][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/1/9M/RRXRFK3ENVIVPXTS5SW5GK
+[2026.03.14-15.12.40:944][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/RRXRFK3ENVIVPXTS5SW5GK815C2D9F4EC816D99F4739A318174547.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/1/9M/RRXRFK3ENVIVPXTS5SW5GK.uasset'
+[2026.03.14-15.12.40:949][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/B/F6/SYY85AQU4JNC3PLE1DPAPP
+[2026.03.14-15.12.40:949][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/SYY85AQU4JNC3PLE1DPAPP80CDC4834D7781385AAFE28F1554B287.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/B/F6/SYY85AQU4JNC3PLE1DPAPP.uasset'
+[2026.03.14-15.12.40:954][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/4/6E/W6901QQKH67UIXV8S1AQSH
+[2026.03.14-15.12.40:954][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/W6901QQKH67UIXV8S1AQSH53FEF714497D929BE2A13ABB122E6B27.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/4/6E/W6901QQKH67UIXV8S1AQSH.uasset'
+[2026.03.14-15.12.40:960][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/B/KT/GT9ECXPPN5NLGEFT0MSDRV
+[2026.03.14-15.12.40:960][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/GT9ECXPPN5NLGEFT0MSDRV735E02B54B1FDEF587DBA691C0978E27.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/B/KT/GT9ECXPPN5NLGEFT0MSDRV.uasset'
+[2026.03.14-15.12.40:965][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/4/WK/U967UY7DIOXQE414ZZEX4Y
+[2026.03.14-15.12.40:965][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/U967UY7DIOXQE414ZZEX4Y9265217A4EEF66A77BB60594C2B4ABE2.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/4/WK/U967UY7DIOXQE414ZZEX4Y.uasset'
+[2026.03.14-15.12.40:970][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/3/BW/UNKQHWRM29BA3JHGQFNP9Q
+[2026.03.14-15.12.40:970][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/UNKQHWRM29BA3JHGQFNP9Q4D97D54B49F31FC76F8A69918960FC20.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/3/BW/UNKQHWRM29BA3JHGQFNP9Q.uasset'
+[2026.03.14-15.12.40:976][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/7/GR/ZDNFBJ8745D05NESNDE4XL
+[2026.03.14-15.12.40:976][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/ZDNFBJ8745D05NESNDE4XL0C3B51F74A25FB38547CD3A07BDDEA33.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/7/GR/ZDNFBJ8745D05NESNDE4XL.uasset'
+[2026.03.14-15.12.40:981][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/6/LY/IS0MJDAJQL3566ZEXK86IA
+[2026.03.14-15.12.40:981][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/IS0MJDAJQL3566ZEXK86IA204233D4431F32D3C1F1169956898C16.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/6/LY/IS0MJDAJQL3566ZEXK86IA.uasset'
+[2026.03.14-15.12.40:987][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/B/BQ/MMSUXXVYKT80JCK0IPJXT9
+[2026.03.14-15.12.40:987][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/MMSUXXVYKT80JCK0IPJXT9ED60CF154808A66850DE26890BF1403B.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/B/BQ/MMSUXXVYKT80JCK0IPJXT9.uasset'
+[2026.03.14-15.12.40:992][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/C/1F/F5Q50F9UQYR5DDMQGABIDK
+[2026.03.14-15.12.40:992][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/F5Q50F9UQYR5DDMQGABIDK3ECD40B749D1E378EA34CEA1B409C4D2.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/C/1F/F5Q50F9UQYR5DDMQGABIDK.uasset'
+[2026.03.14-15.12.40:997][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/3/HK/9LVCZAYR3I05MQDRKSX31X
+[2026.03.14-15.12.40:998][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/9LVCZAYR3I05MQDRKSX31X642E6E2948BC53910907AB9B58D61A11.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/3/HK/9LVCZAYR3I05MQDRKSX31X.uasset'
+[2026.03.14-15.12.41:003][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/1/RC/UHQ4YU5VAJCS6CFBU9N9FP
+[2026.03.14-15.12.41:003][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/UHQ4YU5VAJCS6CFBU9N9FP541030AE44E22927A7709EB5CBAA692C.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/1/RC/UHQ4YU5VAJCS6CFBU9N9FP.uasset'
+[2026.03.14-15.12.41:009][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/6/WE/A3383SULVX2P7OSNXLKIVP
+[2026.03.14-15.12.41:009][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/A3383SULVX2P7OSNXLKIVPB17F03224BCAD3BAD055CABAC301BE38.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/6/WE/A3383SULVX2P7OSNXLKIVP.uasset'
+[2026.03.14-15.12.41:014][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/2/YY/TDX4LVODBM2N1PSTA2IQA6
+[2026.03.14-15.12.41:015][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/TDX4LVODBM2N1PSTA2IQA6415BEECB44A415BD8190B5AEB9C607D1.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/2/YY/TDX4LVODBM2N1PSTA2IQA6.uasset'
+[2026.03.14-15.12.41:020][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/A/T1/SMTPMXTTB5QTJVS21ZG3ID
+[2026.03.14-15.12.41:020][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/SMTPMXTTB5QTJVS21ZG3ID6BB420DF41F9F0C58FB5C181A8AB280C.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/A/T1/SMTPMXTTB5QTJVS21ZG3ID.uasset'
+[2026.03.14-15.12.41:025][718]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/NewMap/3/D8/G1CFFCHF3FODXKI4EOHULB
+[2026.03.14-15.12.41:026][718]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/G1CFFCHF3FODXKI4EOHULB1BA72B5A43B22179DDBB93B0A3A9B93F.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/3/D8/G1CFFCHF3FODXKI4EOHULB.uasset'
+[2026.03.14-15.12.41:051][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 408.293 ms (total: 14.8 sec)
+[2026.03.14-15.12.41:095][718]LogStall: Shutdown...
+[2026.03.14-15.12.41:095][718]LogStall: Shutdown complete.
+[2026.03.14-15.12.41:166][718]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.14-15.12.41:166][718]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.12.41:166][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.12.41:225][718]LogSlate: Window 'Lab1_GD2 - Unreal Editor' being destroyed
+[2026.03.14-15.12.41:337][718]LogContentValidation: Display: Starting to validate 50 assets
+[2026.03.14-15.12.41:337][718]LogContentValidation: Enabled validators:
+[2026.03.14-15.12.41:337][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.14-15.12.41:337][718]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.14-15.12.41:337][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.14-15.12.41:337][718]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.14-15.12.41:337][718]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.14-15.12.41:337][718]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.14-15.12.41:337][718]AssetCheck: /Game/ThirdPerson/NewMap Validating asset
+[2026.03.14-15.12.41:370][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.14-15.12.41:391][718]Cmd: QUIT_EDITOR
+[2026.03.14-15.12.41:391][718]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.14-15.12.41:392][718]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.14-15.12.41:395][719]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.14-15.12.41:395][719]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.14-15.12.41:395][719]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.14-15.12.41:402][719]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.12.41:403][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.12.41:403][719]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/NewMap.NewMap
+[2026.03.14-15.12.41:411][719]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.14-15.12.41:411][719]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.14-15.12.41:411][719]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.14-15.12.41:416][719]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.12.41:416][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.12.41:418][719]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.12.41:418][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.12.41:419][719]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.12.41:419][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.12.41:421][719]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.12.41:421][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.12.41:422][719]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.14-15.12.41:422][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.14-15.12.41:424][719]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.14-15.12.41:424][719]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.14-15.12.41:433][719]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.14-15.12.42:305][719]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.14-15.12.42:305][719]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.14-15.12.42:305][719]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.03.14-15.12.42:305][719]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.14-15.12.42:305][719]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.14-15.12.42:310][719]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.14-15.12.42:341][719]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.14-15.12.42:341][719]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.14-15.12.42:342][719]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.03.14-15.12.42:344][719]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.14-15.12.42:346][719]LogExit: Preparing to exit.
+[2026.03.14-15.12.42:374][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.42:377][719]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.14-15.12.43:597][719]LogEditorDataStorage: Deinitializing
+[2026.03.14-15.12.43:731][719]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.14-15.12.43:747][719]LogExit: Editor shut down
+[2026.03.14-15.12.43:748][719]LogExit: Transaction tracking system shut down
+[2026.03.14-15.12.43:857][719]LogExit: Object subsystem successfully closed.
+[2026.03.14-15.12.43:929][719]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.14-15.12.44:001][719]LogMemoryProfiler: Shutdown
+[2026.03.14-15.12.44:002][719]LogNetworkingProfiler: Shutdown
+[2026.03.14-15.12.44:002][719]LoadingProfiler: Shutdown
+[2026.03.14-15.12.44:002][719]LogTimingProfiler: Shutdown
+[2026.03.14-15.12.44:002][719]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.14-15.12.44:002][719]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.14-15.12.44:270][719]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.14-15.12.44:275][719]RenderDocPlugin: plugin has been unloaded.
+[2026.03.14-15.12.44:296][719]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.14-15.12.44:296][719]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA7CDEBEA-489B-0F37-ED29-15BA5CF59B15%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.14-15.12.44:310][719]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.14-15.12.44:310][719]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.14-15.12.44:312][719]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.14-15.12.44:312][719]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.14-15.12.44:312][719]LogPakFile: Destroying PakPlatformFile
+[2026.03.14-15.12.56:487][719]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.14-15.12.56:522][719]LogExit: Exiting.
+[2026.03.14-15.12.56:535][719]Log file closed, 03/14/26 18:12:56
