@@ -2309,3 +2309,316 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.15-11.34.54:953][773]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/LF7Y2EC5CDOHFWIXBADEFJ_Auto3B784F5264F025632481E8BA4BDC578FD.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/E/KO/LF7Y2EC5CDOHFWIXBADEFJ_Auto3.uasset'
 [2026.03.15-11.34.54:954][773]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/NewMap' took 0.117
 [2026.03.15-11.34.54:954][773]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.117
+[2026.03.15-11.45.34:955][693]LogHttp: Warning: 000001581D4A1500: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.15-11.45.34:955][693]LogHttp: Warning: 000001581D4A1500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.15-11.45.34:955][693]LogHttp: Warning: 000001581D4A1500: libcurl info message cache 1 (shutting down connection #35)
+[2026.03.15-11.45.34:955][693]LogHttp: Warning: 000001581D4A1500 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.00s
+[2026.03.15-11.47.04:668][962]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.03.15-11.47.04:668][962]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.03.15-11.51.41:833][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.15-11.51.41:845][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/2/62/SFH902W13Q55GKQXRZY3TR_Auto4
+[2026.03.15-11.51.41:845][ 52]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/SFH902W13Q55GKQXRZY3TR_Auto4A5BE1FF84669D20D1CAF8DBABE6F1E2F.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/2/62/SFH902W13Q55GKQXRZY3TR_Auto4.uasset'
+[2026.03.15-11.51.41:857][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/2/7G/24YTN86PE2ZP0BP9300XVX_Auto4
+[2026.03.15-11.51.41:857][ 52]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/24YTN86PE2ZP0BP9300XVX_Auto4E7CA08514AE65F076445919A30E74F01.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/2/7G/24YTN86PE2ZP0BP9300XVX_Auto4.uasset'
+[2026.03.15-11.51.41:862][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/2/BU/TA6L3BTNXM2N2QC3RJC9JI_Auto4
+[2026.03.15-11.51.41:862][ 52]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/TA6L3BTNXM2N2QC3RJC9JI_Auto48D6F441B41E25427F212CF8546FE964B.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/2/BU/TA6L3BTNXM2N2QC3RJC9JI_Auto4.uasset'
+[2026.03.15-11.51.41:867][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/6/LY/IS0MJDAJQL3566ZEXK86IA_Auto4
+[2026.03.15-11.51.41:867][ 52]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/IS0MJDAJQL3566ZEXK86IA_Auto4E6BAE8AD42CE95D3D916F9B1742EAB2C.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/6/LY/IS0MJDAJQL3566ZEXK86IA_Auto4.uasset'
+[2026.03.15-11.51.41:872][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/7/GR/ZDNFBJ8745D05NESNDE4XL_Auto4
+[2026.03.15-11.51.41:872][ 52]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/ZDNFBJ8745D05NESNDE4XL_Auto4CE1A01C04CFDB8ED25E2EB81B18D9A0D.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/7/GR/ZDNFBJ8745D05NESNDE4XL_Auto4.uasset'
+[2026.03.15-11.51.41:879][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/8/GI/BQT1EF3QZ7V7HZO9D9WKZW_Auto4
+[2026.03.15-11.51.41:879][ 52]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/BQT1EF3QZ7V7HZO9D9WKZW_Auto4FFC831EB49924FB821CAD2868A67F64A.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/8/GI/BQT1EF3QZ7V7HZO9D9WKZW_Auto4.uasset'
+[2026.03.15-11.51.41:884][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/A/9N/UPWZRBRF7Z24COKYNNNIPX_Auto4
+[2026.03.15-11.51.41:884][ 52]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/UPWZRBRF7Z24COKYNNNIPX_Auto44B4980904B05AB30F4EBB4BC762B120F.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/A/9N/UPWZRBRF7Z24COKYNNNIPX_Auto4.uasset'
+[2026.03.15-11.51.41:889][ 52]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/D/26/7J9XV4999KROOFR31T3K9A_Auto4
+[2026.03.15-11.51.41:889][ 52]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/7J9XV4999KROOFR31T3K9A_Auto4245C859E4F7D7EB8444FA7A50A768F89.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/D/26/7J9XV4999KROOFR31T3K9A_Auto4.uasset'
+[2026.03.15-11.51.41:889][ 52]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/NewMap' took 0.084
+[2026.03.15-11.51.41:889][ 52]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2026.03.15-11.56.50:820][ 48]LogHttp: Warning: 0000015691FB6200: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.15-11.56.50:820][ 48]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 0 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2026.03.15-11.56.50:820][ 48]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 1 (upload completely sent off: 439 bytes)
+[2026.03.15-11.56.50:820][ 49]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 2 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2026.03.15-11.56.50:820][ 49]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.03.15-11.56.50:820][ 49]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 4 (shutting down connection #36)
+[2026.03.15-11.56.50:820][ 49]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 5 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.03.15-11.56.50:820][ 49]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 6 (necessary data rewind was not possible)
+[2026.03.15-11.56.50:820][ 49]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 7 (rewind of client reader 'cr-in' failed: 65)
+[2026.03.15-11.56.50:820][ 49]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2026.03.15-11.56.50:820][ 49]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 9 (necessary data rewind was not possible)
+[2026.03.15-11.56.50:821][ 49]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2026.03.15-11.56.50:821][ 49]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 11 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.15-11.56.50:821][ 49]LogHttp: Warning: 0000015691FB6200: libcurl info message cache 12 (shutting down connection #37)
+[2026.03.15-11.56.50:821][ 49]LogHttp: Warning: 0000015691FB6200 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 16.23s
+[2026.03.15-11.57.34:592][300]LogHttp: Warning: 0000015691FB7700: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.15-11.57.34:592][300]LogHttp: Warning: 0000015691FB7700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.15-11.57.34:592][300]LogHttp: Warning: 0000015691FB7700: libcurl info message cache 1 (shutting down connection #38)
+[2026.03.15-11.57.34:592][300]LogHttp: Warning: 0000015691FB7700 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.00s
+[2026.03.15-11.58.34:590][498]LogHttp: Warning: 0000015691FB8500: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.15-11.58.34:590][498]LogHttp: Warning: 0000015691FB8500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.15-11.58.34:590][498]LogHttp: Warning: 0000015691FB8500: libcurl info message cache 1 (shutting down connection #39)
+[2026.03.15-11.58.34:590][498]LogHttp: Warning: 0000015691FB8500 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.00s
+[2026.03.15-11.59.34:591][693]LogHttp: Warning: 0000015691FBE000: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.15-11.59.34:591][693]LogHttp: Warning: 0000015691FBE000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.15-11.59.34:591][694]LogHttp: Warning: 0000015691FBE000: libcurl info message cache 1 (shutting down connection #40)
+[2026.03.15-11.59.34:591][694]LogHttp: Warning: 0000015691FBE000 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.00s
+[2026.03.15-12.00.34:589][868]LogHttp: Warning: 000001581AF28C00: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.15-12.00.34:589][868]LogHttp: Warning: 000001581AF28C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.15-12.00.34:589][868]LogHttp: Warning: 000001581AF28C00: libcurl info message cache 1 (shutting down connection #41)
+[2026.03.15-12.00.34:589][868]LogHttp: Warning: 000001581AF28C00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.00s
+[2026.03.15-12.01.24:993][872]LogDerivedDataCache: C:/Users/BUG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.15-12.01.34:587][ 20]LogHttp: Warning: 00000157723CE000: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.15-12.01.34:587][ 20]LogHttp: Warning: 00000157723CE000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.15-12.01.34:587][ 20]LogHttp: Warning: 00000157723CE000: libcurl info message cache 1 (shutting down connection #42)
+[2026.03.15-12.01.34:587][ 20]LogHttp: Warning: 00000157723CE000 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.00s
+[2026.03.15-12.02.34:594][168]LogHttp: Warning: 000001581A4C5400: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.15-12.02.34:594][168]LogHttp: Warning: 000001581A4C5400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.15-12.02.34:594][168]LogHttp: Warning: 000001581A4C5400: libcurl info message cache 1 (shutting down connection #43)
+[2026.03.15-12.02.34:594][168]LogHttp: Warning: 000001581A4C5400 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.00s
+[2026.03.15-12.03.34:586][356]LogHttp: Warning: 000001581CDB9300: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.15-12.03.34:586][356]LogHttp: Warning: 000001581CDB9300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.15-12.03.34:586][356]LogHttp: Warning: 000001581CDB9300: libcurl info message cache 1 (shutting down connection #44)
+[2026.03.15-12.03.34:586][356]LogHttp: Warning: 000001581CDB9300 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.00s
+[2026.03.15-12.04.34:594][518]LogHttp: Warning: 0000015816C15400: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.15-12.04.34:595][518]LogHttp: Warning: 0000015816C15400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.15-12.04.34:595][518]LogHttp: Warning: 0000015816C15400: libcurl info message cache 1 (shutting down connection #45)
+[2026.03.15-12.04.34:595][518]LogHttp: Warning: 0000015816C15400 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.00s
+[2026.03.15-12.05.11:924][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.03.15-12.05.11:936][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/1/5Y/5KGINESULSQTRM0KRCQDKP_Auto5
+[2026.03.15-12.05.11:937][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/5KGINESULSQTRM0KRCQDKP_Auto5BB84CC2943238863AF711B9C40864B01.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/1/5Y/5KGINESULSQTRM0KRCQDKP_Auto5.uasset'
+[2026.03.15-12.05.11:948][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/2/8X/O90G9LTWIDSVFOM07K7OIF_Auto5
+[2026.03.15-12.05.11:948][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/O90G9LTWIDSVFOM07K7OIF_Auto5E7230953488C2E91597DC6AA5B3C1BEC.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/2/8X/O90G9LTWIDSVFOM07K7OIF_Auto5.uasset'
+[2026.03.15-12.05.11:954][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/3/B9/L4MF2330ZB2LKJ6YBT7G8V_Auto5
+[2026.03.15-12.05.11:954][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/L4MF2330ZB2LKJ6YBT7G8V_Auto5140A46664B904762F85ED0ADB58A62F8.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/3/B9/L4MF2330ZB2LKJ6YBT7G8V_Auto5.uasset'
+[2026.03.15-12.05.11:959][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/4/14/61MRIFP7JY4E1XDP078CKQ_Auto5
+[2026.03.15-12.05.11:960][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/61MRIFP7JY4E1XDP078CKQ_Auto55B4B01A342153A6C35F288A11125A850.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/4/14/61MRIFP7JY4E1XDP078CKQ_Auto5.uasset'
+[2026.03.15-12.05.11:965][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/4/6E/W6901QQKH67UIXV8S1AQSH_Auto5
+[2026.03.15-12.05.11:965][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/W6901QQKH67UIXV8S1AQSH_Auto5C0D6772C4B7CC85DDF8C70A4EB031B11.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/4/6E/W6901QQKH67UIXV8S1AQSH_Auto5.uasset'
+[2026.03.15-12.05.11:970][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/4/GS/FEIK0B5ICBZFIGWSX51XH7_Auto5
+[2026.03.15-12.05.11:971][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/FEIK0B5ICBZFIGWSX51XH7_Auto54622770347C453E5F00512BAC4E63F95.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/4/GS/FEIK0B5ICBZFIGWSX51XH7_Auto5.uasset'
+[2026.03.15-12.05.11:976][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/4/WK/U967UY7DIOXQE414ZZEX4Y_Auto5
+[2026.03.15-12.05.11:976][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/U967UY7DIOXQE414ZZEX4Y_Auto5DE6AB18B48ED2C67E0975A9E4B28056B.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/4/WK/U967UY7DIOXQE414ZZEX4Y_Auto5.uasset'
+[2026.03.15-12.05.11:981][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/4/YC/SXAJLIRGMAEJO3QRF8FSSJ_Auto5
+[2026.03.15-12.05.11:982][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/SXAJLIRGMAEJO3QRF8FSSJ_Auto58782F94040A76D7071E73BAA1BAAADCD.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/4/YC/SXAJLIRGMAEJO3QRF8FSSJ_Auto5.uasset'
+[2026.03.15-12.05.11:987][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/6/N7/Q66E2N3LU8PXCZAG5N1AFZ_Auto5
+[2026.03.15-12.05.11:987][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Q66E2N3LU8PXCZAG5N1AFZ_Auto5644AC68A41215872CBD989A676D5459D.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/6/N7/Q66E2N3LU8PXCZAG5N1AFZ_Auto5.uasset'
+[2026.03.15-12.05.11:993][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/A/S9/IF0UKN78ZUC6QCLMR6UJGE_Auto5
+[2026.03.15-12.05.11:993][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/IF0UKN78ZUC6QCLMR6UJGE_Auto550C9D8DC4F5E85D4C2D5F7A547D1F697.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/A/S9/IF0UKN78ZUC6QCLMR6UJGE_Auto5.uasset'
+[2026.03.15-12.05.11:998][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/B/KT/GT9ECXPPN5NLGEFT0MSDRV_Auto5
+[2026.03.15-12.05.11:998][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/GT9ECXPPN5NLGEFT0MSDRV_Auto5B02CDE7444D755600393478C121D27F7.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/B/KT/GT9ECXPPN5NLGEFT0MSDRV_Auto5.uasset'
+[2026.03.15-12.05.12:003][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/0/K4/CFSL7GI2ZSTPH7QKLOGH0N_Auto5
+[2026.03.15-12.05.12:004][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/CFSL7GI2ZSTPH7QKLOGH0N_Auto5C9C117F34D03DF5347431895B112D6CF.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/0/K4/CFSL7GI2ZSTPH7QKLOGH0N_Auto5.uasset'
+[2026.03.15-12.05.12:010][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/1/9M/RRXRFK3ENVIVPXTS5SW5GK_Auto5
+[2026.03.15-12.05.12:010][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/RRXRFK3ENVIVPXTS5SW5GK_Auto52BB607E2470276768E835EA644C1B7A7.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/1/9M/RRXRFK3ENVIVPXTS5SW5GK_Auto5.uasset'
+[2026.03.15-12.05.12:016][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/3/BW/UNKQHWRM29BA3JHGQFNP9Q_Auto5
+[2026.03.15-12.05.12:016][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/UNKQHWRM29BA3JHGQFNP9Q_Auto595D9D9414DB6EC45C55FA5A3856848DD.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/3/BW/UNKQHWRM29BA3JHGQFNP9Q_Auto5.uasset'
+[2026.03.15-12.05.12:023][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/8/RA/HZPALBIJY1KP0Z5IUP39P9_Auto5
+[2026.03.15-12.05.12:023][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/HZPALBIJY1KP0Z5IUP39P9_Auto5CBDA039541FDC48D0580ECACAC8CCEA1.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/8/RA/HZPALBIJY1KP0Z5IUP39P9_Auto5.uasset'
+[2026.03.15-12.05.12:028][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/8/SM/B0JWUV4TCGFHMD30NS56I4_Auto5
+[2026.03.15-12.05.12:029][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/B0JWUV4TCGFHMD30NS56I4_Auto57283C20144433BF44B1452836EE5CBAD.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/8/SM/B0JWUV4TCGFHMD30NS56I4_Auto5.uasset'
+[2026.03.15-12.05.12:034][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/C/XS/45QP7YV3I0M5Y7FX0HF2K2_Auto5
+[2026.03.15-12.05.12:034][917]LogSavePackage: Moving '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/45QP7YV3I0M5Y7FX0HF2K2_Auto5C7A01AB445347EEA1265ECAA74D18FC6.tmp' to '../../../../../../Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/NewMap/C/XS/45QP7YV3I0M5Y7FX0HF2K2_Auto5.uasset'
+[2026.03.15-12.05.12:035][917]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/NewMap' took 0.135
+[2026.03.15-12.05.12:035][917]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.135
+[2026.03.15-12.05.18:844][724]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.15-12.05.18:849][724]LogContentBundle: [NewMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.15-12.05.18:849][724]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.03.15-12.05.18:853][724]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 4.169 ms (total: 41.876 ms)
+[2026.03.15-12.05.18:853][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.15-12.05.18:889][724]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_NewMap
+[2026.03.15-12.05.18:914][724]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.15-12.05.18:919][724]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.730 ms (total: 56.903 ms)
+[2026.03.15-12.05.18:921][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031605s)
+[2026.03.15-12.05.18:921][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/NewMap.NewMap to /Game/ThirdPerson/UEDPIE_0_NewMap.NewMap (0.031654s)
+[2026.03.15-12.05.18:940][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.15-12.05.18:941][724]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.03.15-12.05.18:942][724]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.15-12.05.18:942][724]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.15-12.05.18:942][724]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.15-12.05.18:942][724]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.15-12.05.18:948][724]LogWorldPartition: Display: WorldPartition initialize took 5.843 ms (total: 652.295 ms)
+[2026.03.15-12.05.18:948][724]LogPlayLevel: PIE: World Init took: (0.007293s)
+[2026.03.15-12.05.18:949][724]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.03.15-12.05.18:949][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.15-12.05.18:949][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.15-12.05.18:949][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.15-12.05.18:949][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.15-12.05.18:949][724]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.15-12.05.18:949][724]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.15-12.05.18:949][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.15-12.05.18:949][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.15-12.05.18:949][724]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.15-12.05.18:949][724]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.15-12.05.18:949][724]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.15-12.05.18:951][724]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.15-12.05.18:993][724]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.15-12.05.18:993][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.15-12.05.18:993][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.15-12.05.18:993][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.15-12.05.18:993][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.03.15-12.05.18:993][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.03.15-12.05.18:995][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.03.15-12.05.18:995][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.03.15-12.05.18:995][724]LogInit: FAudioDevice initialized with ID 16.
+[2026.03.15-12.05.18:995][724]LogAudio: Display: Audio Device (ID: 16) registered with world 'NewMap'.
+[2026.03.15-12.05.18:995][724]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.03.15-12.05.18:999][724]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.15-12.05.19:000][724]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2026.03.15-15.05.19
+[2026.03.15-12.05.19:000][724]LogWorld: Bringing up level for play took: 0.001208
+[2026.03.15-12.05.19:002][724]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.03.15-12.05.19:040][724]LogStreaming: Display: FlushAsyncLoading(1778,1777,1776,1775,1774,1773,1772,1771,1770,1769,1768,1767,1766,1765,1764,1763,1762,1761,1760,1759,1758,1757,1756,1755,1754,1753,1752,1751,1750,1749,1748,1747,1746,1745,1744,1743,1742,1741,1740,1739,1738): 41 QueuedPackages, 0 AsyncPackages
+[2026.03.15-12.05.19:175][724]PIE: Server logged in
+[2026.03.15-12.05.19:177][724]PIE: Play in editor total start time 0.329 seconds.
+[2026.03.15-12.05.19:249][725]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.15-12.05.34:588][552]LogHttp: Warning: 000001581B2F0E00: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.15-12.05.34:588][552]LogHttp: Warning: 000001581B2F0E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.15-12.05.34:588][552]LogHttp: Warning: 000001581B2F0E00: libcurl info message cache 1 (shutting down connection #46)
+[2026.03.15-12.05.34:588][552]LogHttp: Warning: 000001581B2F0E00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.00s
+[2026.03.15-12.05.45:189][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.15-12.05.45:189][817]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_NewMap
+[2026.03.15-12.05.45:196][817]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.15-12.05.45:197][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.15-12.05.45:197][817]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_NewMap.NewMap
+[2026.03.15-12.05.45:199][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.15-12.05.45:201][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.15-12.05.45:225][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.15-12.05.45:226][817]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.03.15-12.05.45:226][817]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.03.15-12.05.45:227][817]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.03.15-12.05.45:238][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.03.15-12.05.45:272][818]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.03.15-12.05.58:242][293]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.15-12.05.58:246][293]LogContentBundle: [NewMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.15-12.05.58:246][293]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.03.15-12.05.58:250][293]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 4.048 ms (total: 45.925 ms)
+[2026.03.15-12.05.58:250][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.15-12.05.58:289][293]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_NewMap
+[2026.03.15-12.05.58:315][293]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.15-12.05.58:319][293]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.726 ms (total: 60.629 ms)
+[2026.03.15-12.05.58:321][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031518s)
+[2026.03.15-12.05.58:321][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/NewMap.NewMap to /Game/ThirdPerson/UEDPIE_0_NewMap.NewMap (0.031564s)
+[2026.03.15-12.05.58:337][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.15-12.05.58:339][293]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.03.15-12.05.58:340][293]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.15-12.05.58:340][293]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.15-12.05.58:340][293]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.15-12.05.58:340][293]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.15-12.05.58:346][293]LogWorldPartition: Display: WorldPartition initialize took 5.877 ms (total: 658.173 ms)
+[2026.03.15-12.05.58:346][293]LogPlayLevel: PIE: World Init took: (0.007187s)
+[2026.03.15-12.05.58:346][293]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.03.15-12.05.58:346][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.15-12.05.58:346][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.15-12.05.58:346][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.15-12.05.58:346][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.15-12.05.58:346][293]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.15-12.05.58:346][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.15-12.05.58:346][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.15-12.05.58:346][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.15-12.05.58:346][293]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.15-12.05.58:346][293]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.15-12.05.58:346][293]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.15-12.05.58:348][293]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.15-12.05.58:387][293]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.15-12.05.58:387][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.15-12.05.58:387][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.15-12.05.58:387][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.15-12.05.58:388][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.03.15-12.05.58:388][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.03.15-12.05.58:389][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.03.15-12.05.58:389][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.03.15-12.05.58:389][293]LogInit: FAudioDevice initialized with ID 17.
+[2026.03.15-12.05.58:389][293]LogAudio: Display: Audio Device (ID: 17) registered with world 'NewMap'.
+[2026.03.15-12.05.58:389][293]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.03.15-12.05.58:392][293]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.15-12.05.58:393][293]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2026.03.15-15.05.58
+[2026.03.15-12.05.58:394][293]LogWorld: Bringing up level for play took: 0.001082
+[2026.03.15-12.05.58:395][293]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.03.15-12.05.58:435][293]LogStreaming: Display: FlushAsyncLoading(1822,1821,1820,1819,1818,1817,1816,1815,1814,1813,1812,1811,1810,1809,1808,1807,1806,1805,1804,1803,1802,1801,1800,1799,1798,1797,1796,1795,1794,1793,1792,1791,1790,1789,1788,1787,1786,1785,1784,1783,1782): 41 QueuedPackages, 0 AsyncPackages
+[2026.03.15-12.05.58:556][293]PIE: Server logged in
+[2026.03.15-12.05.58:557][293]PIE: Play in editor total start time 0.312 seconds.
+[2026.03.15-12.05.58:629][294]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.15-12.06.18:320][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.15-12.06.18:320][640]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_NewMap
+[2026.03.15-12.06.18:327][640]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.15-12.06.18:328][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.15-12.06.18:328][640]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_NewMap.NewMap
+[2026.03.15-12.06.18:329][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.15-12.06.18:332][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.15-12.06.18:356][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.15-12.06.18:357][640]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.03.15-12.06.18:357][640]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.03.15-12.06.18:358][640]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.03.15-12.06.18:369][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.03.15-12.06.18:456][641]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.03.15-12.06.20:154][841]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.15-12.06.20:158][841]LogContentBundle: [NewMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.15-12.06.20:158][841]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2026.03.15-12.06.20:163][841]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 4.275 ms (total: 50.201 ms)
+[2026.03.15-12.06.20:163][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.15-12.06.20:199][841]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_NewMap
+[2026.03.15-12.06.20:224][841]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.15-12.06.20:228][841]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.779 ms (total: 64.408 ms)
+[2026.03.15-12.06.20:231][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031526s)
+[2026.03.15-12.06.20:231][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/NewMap.NewMap to /Game/ThirdPerson/UEDPIE_0_NewMap.NewMap (0.031564s)
+[2026.03.15-12.06.20:248][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.15-12.06.20:249][841]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.03.15-12.06.20:250][841]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.15-12.06.20:250][841]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.15-12.06.20:250][841]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.15-12.06.20:250][841]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.15-12.06.20:256][841]LogWorldPartition: Display: WorldPartition initialize took 6.001 ms (total: 664.174 ms)
+[2026.03.15-12.06.20:256][841]LogPlayLevel: PIE: World Init took: (0.007307s)
+[2026.03.15-12.06.20:257][841]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.03.15-12.06.20:257][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.15-12.06.20:257][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.15-12.06.20:257][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.15-12.06.20:257][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.15-12.06.20:257][841]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.15-12.06.20:257][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.15-12.06.20:257][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.15-12.06.20:257][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.15-12.06.20:257][841]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.15-12.06.20:257][841]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.15-12.06.20:257][841]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.15-12.06.20:259][841]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.15-12.06.20:298][841]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.15-12.06.20:298][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.15-12.06.20:298][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.15-12.06.20:298][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.15-12.06.20:298][841]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.03.15-12.06.20:298][841]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.03.15-12.06.20:300][841]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.03.15-12.06.20:300][841]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.03.15-12.06.20:300][841]LogInit: FAudioDevice initialized with ID 18.
+[2026.03.15-12.06.20:300][841]LogAudio: Display: Audio Device (ID: 18) registered with world 'NewMap'.
+[2026.03.15-12.06.20:300][841]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.03.15-12.06.20:303][841]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.15-12.06.20:305][841]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2026.03.15-15.06.20
+[2026.03.15-12.06.20:305][841]LogWorld: Bringing up level for play took: 0.001235
+[2026.03.15-12.06.20:306][841]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2026.03.15-12.06.20:347][841]LogStreaming: Display: FlushAsyncLoading(1865,1864,1863,1862,1861,1860,1859,1858,1857,1856,1855,1854,1853,1852,1851,1850,1849,1848,1847,1846,1845,1844,1843,1842,1841,1840,1839,1838,1837,1836,1835,1834,1833,1832,1831,1830,1829,1828,1827,1826,1825): 41 QueuedPackages, 0 AsyncPackages
+[2026.03.15-12.06.20:468][841]PIE: Server logged in
+[2026.03.15-12.06.20:469][841]PIE: Play in editor total start time 0.31 seconds.
+[2026.03.15-12.06.20:539][842]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.15-12.06.34:593][516]LogHttp: Warning: 000001581D9FC400: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.03.15-12.06.34:593][516]LogHttp: Warning: 000001581D9FC400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.03.15-12.06.34:593][516]LogHttp: Warning: 000001581D9FC400: libcurl info message cache 1 (shutting down connection #47)
+[2026.03.15-12.06.34:593][516]LogHttp: Warning: 000001581D9FC400 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B897E1B3F-4B4C-58D2-0D80-3AA6501441A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c2a12faa4c12c6ae593deba4735b7fb5%7C51d5b776040740c3bc9a154a708d5ab9%7C52c624ca-d811-4024-8811-7a40bf519089&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.00s
+[2026.03.15-12.07.04:530][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.15-12.07.04:530][104]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_NewMap
+[2026.03.15-12.07.04:537][104]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.15-12.07.04:537][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.15-12.07.04:537][104]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_NewMap.NewMap
+[2026.03.15-12.07.04:539][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.15-12.07.04:542][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.15-12.07.04:565][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.15-12.07.04:566][104]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.03.15-12.07.04:566][104]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.03.15-12.07.04:567][104]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.03.15-12.07.04:578][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.03.15-12.07.04:663][105]LogPlayLevel: Display: Destroying online subsystem :Context_21
