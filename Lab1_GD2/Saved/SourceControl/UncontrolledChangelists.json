@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/arsik/Desktop/Lab1_GD2/Lab1_GD2/Content/BP_Door.uasset",
+				"C:/Users/arsik/Desktop/Lab1_GD2/Lab1_GD2/Content/BP_MazeCell.uasset",
+				"C:/Users/arsik/Desktop/Lab1_GD2/Lab1_GD2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/arsik/Desktop/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/NewMap/7/J8/ZOLS7RJJM9NP4OX5UPY0VE.uasset",
 				"C:/Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/BP_MazeCell.uasset",
 				"C:/Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/BP_Cube.uasset",
 				"C:/Users/BUG/Desktop/ikbal/Lab1_GD2/Lab1_GD2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/RI/WT40X1W15SO72ORMKNB8TR.uasset",
